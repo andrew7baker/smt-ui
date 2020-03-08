@@ -80,3 +80,12 @@
 ## License
 
 Apache License Version 2.0
+
+## 环境安装
+
+安装node.js (必要)
+安装python2.7 (必要)
+npm config set msvs_version 2012 --global (必要)
+set sass_binary_site=https://npm.taobao.org/mirrors/node-sass/ (必要)
+npm install node-sass (必要)
+npm install --registry=https://registry.npm.taobao.org (必要)
