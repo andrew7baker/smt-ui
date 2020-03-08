@@ -1,0 +1,161 @@
+{
+  "data": {
+    "total":56,
+    "rows": [
+      {
+        "id": 1,
+        "menu": "菜单管理",
+        "opt": "新增",
+        "uri": "/admin/menu",
+        "crtTime": "2018-02-25 09:36:35",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 2,
+        "menu": "菜单管理",
+        "opt": "新增",
+        "uri": "/admin/menu",
+        "crtTime": "2018-02-25 09:37:04",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 3,
+        "menu": "菜单管理",
+        "opt": "新增",
+        "uri": "/admin/menu",
+        "crtTime": "2018-02-25 09:37:04",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 4,
+        "menu": "菜单管理",
+        "opt": "编辑",
+        "uri": "/admin/menu",
+        "crtTime": "2018-02-25 09:37:20",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 5,
+        "menu": "菜单管理",
+        "opt": "编辑",
+        "uri": "/admin/menu",
+        "crtTime": "2018-02-25 09:37:32",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 6,
+        "menu": "菜单管理",
+        "opt": "编辑",
+        "uri": "/admin/menu",
+        "crtTime": "2018-02-25 09:37:35",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 7,
+        "menu": "菜单管理",
+        "opt": "编辑",
+        "uri": "/admin/menu",
+        "crtTime": "2018-02-25 09:37:40",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 8,
+        "menu": "菜单管理",
+        "opt": "新增",
+        "uri": "/admin/menu",
+        "crtTime": "2018-02-25 09:38:04",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 9,
+        "menu": "角色权限管理",
+        "opt": "新增",
+        "uri": "/admin/group",
+        "crtTime": "2018-02-25 09:38:21",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 10,
+        "menu": "菜单管理",
+        "opt": "编辑",
+        "uri": "/admin/menu",
+        "crtTime": "2018-02-25 09:38:55",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 11,
+        "menu": "用户管理",
+        "opt": "编辑",
+        "uri": "/admin/user",
+        "crtTime": "2018-03-06 11:26:28",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 12,
+        "menu": "用户管理",
+        "opt": "编辑",
+        "uri": "/admin/user",
+        "crtTime": "2018-03-06 11:26:34",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 13,
+        "menu": "用户管理",
+        "opt": "编辑",
+        "uri": "/admin/user",
+        "crtTime": "2018-03-07 11:21:10",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "127.0.0.1",
+        "body": null
+      },
+      {
+        "id": 14,
+        "menu": "用户管理",
+        "opt": "编辑",
+        "uri": "/admin/user/{*}",
+        "crtTime": "2019-01-27 15:33:13",
+        "crtUser": "1",
+        "crtName": "Mr.AG",
+        "crtHost": "/127.0.0.1:54809",
+        "body": "{\"id\":4,\"username\":\"blog\",\"name\":\"Mr.AG(博主)\",\"birthday\":\"\",\"mobilePhone\":\"\",\"email\":\"\",\"sex\":\"男\",\"description\":\"12\",\"updTime\":\"2019-01-27 15:30:14\",\"updUser\":\"1\",\"updName\":\"admin\",\"updHost\":\"127.0.0.1\"}"
+      }
+    ]
+  }
+}
